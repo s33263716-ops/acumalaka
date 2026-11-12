@@ -1,0 +1,6 @@
+{
+  "name": "brast — Personal Website",
+  "description": "Website personal satu halaman brast dengan fokus game, bio pusrank, karya dev pou, dan tautan publik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
